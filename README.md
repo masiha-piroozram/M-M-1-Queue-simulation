@@ -13,4 +13,5 @@ And the Timeline.csv also contain following information:
 • number of event happend in a speific time  
 • total number of customers existing in the system at a time  
 • times between events  
-You can also run the "M/M/1 with package.R" to see and compare the result using Queueing Package in R.
+You can also run the "M/M/1 with package.R" to see and compare the result using Queueing Package in R.  
+There is also a zip file named "Example.zip" which you can see how the result should be on your device. In case of any contradiction, you can contact me.
